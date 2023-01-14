@@ -1,0 +1,8 @@
+{
+  "name": "next-custom-vue-cli",
+  "version": "0.1.0",
+  "description": "Quickly generate vue3 projects, including PC and mobile.",
+  "main": "prompts.js",
+  "scripts": {},
+  "author": "wy"
+}

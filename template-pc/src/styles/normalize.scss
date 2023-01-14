@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  font-family: MicrosoftYaHei, 'Microsoft YaHei', '微软雅黑', Helvetica, Arial,
+    sans-serif;
+  user-select: none;
+}
+#app {
+  height: 100%;
+}
+.ellipsis_1 {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.ellipsis_2 {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
